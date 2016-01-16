@@ -1,3 +1,6 @@
+[![wercker status](https://app.wercker.com/status/4e17a6ad772279c1635199abc30d4b00/m "my wercker status")](https://app.wercker.com/project/bykey/4e17a6ad772279c1635199abc30d4b00)
+
+
 # getting-started-nodejs
 
 Node.js sample application for wercker built with Express
